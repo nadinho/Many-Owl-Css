@@ -1,0 +1,14 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(25, 33, 44);
+  color: rgb(255, 240, 28);
+  margin: 0;
+  padding: 40px;
+  width: 100vw;
+  height: 100vh;
+}
